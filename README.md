@@ -21,22 +21,17 @@
 
 ## 📸 Screenshots
 
-<details>
-  <summary>Click to expand</summary>
+![Homepage](home.png)
+*Homepage view with search and featured mods.*
 
-  ![Homepage](home.png)
-  *Homepage view with search and featured mods.*
+![Browse](browse.png)
+*Browse mods page with search feature, grid style.*
 
-  ![Browse](browse.png)
-  *Browse mods page with search feature, grid style.*
+![Mod Details](mod.png)
+*Detailed mod page with description, versioning, and download options.*
 
-  ![Mod Details](mod.png)
-  *Detailed mod page with description, versioning, and download options.*
-
-  ![Upload Mod](profile.png)
-  *Upload form with permission and redistribution controls.*
-
-</details>
+![Upload Mod](profile.png)
+*Upload form with permission and redistribution controls.*
 
 ## License
 
